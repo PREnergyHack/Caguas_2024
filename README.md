@@ -21,6 +21,7 @@ Cambia al directorio del proyecto:
 bash
 Copy code
 cd nombre-del-repositorio
+
 3️⃣ Estructura del Repositorio
 Es importante seguir la estructura definida para mantener el repositorio organizado:
 
