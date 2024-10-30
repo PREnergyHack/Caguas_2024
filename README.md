@@ -17,22 +17,18 @@ Solicita acceso al repositorio del hackathon - https://github.com/PREnergyHack/C
 
 Para empezar a trabajar, clona el repositorio a tu máquina local.
 
-bash
-Copy code
+```bash
 git clone <URL-DEL-REPOSITORIO>
-
+```
 Cambia al directorio del proyecto:
 
-bash
-Copy code
+```bash
 cd nombre-del-repositorio
-
+```
 3️⃣ Estructura del Repositorio
 
 Es importante seguir la estructura definida para mantener el repositorio organizado:
-
-bash
-Copy code
+```bash
 /docs         # Documentación y referencias
 /proyectos    # Código y entregables de cada equipo
  └── equipo-<nombre-del-equipo>
@@ -41,38 +37,36 @@ Copy code
       └── recursos/   # Imágenes, documentos adicionales, etc.
 /scripts      # Scripts de utilidad compartidos
 README.md     # Documentación general del hackathon
-
+```
 4️⃣ Creación de una Rama por Equipo
 Cada equipo debe crear su propia rama para trabajar en su proyecto. Usa el siguiente formato para nombrar las ramas:
 
-css
-Copy code
+```
 equipo-<nombre-del-equipo>
+```
 Ejemplo:
 
-bash
-Copy code
+```bash
 git checkout -b equipo-los-innovadores
-
+```
 5️⃣ Subir Cambios al Repositorio
 Después de realizar cambios, sigue estos pasos para subir tu trabajo:
 
 Agregar los archivos al seguimiento:
 
-bash
-Copy code
+```bash
 git add .
+```
 Hacer un commit con un mensaje claro:
 
-bash
-Copy code
+```bash
 git commit -m "Descripción del cambio realizado"
+```
 Subir los cambios a tu rama:
 
-bash
-Copy code
+```bash
 git push origin equipo-<nombre-del-equipo>
-
+```
 
 6️⃣ Crear un Pull Request (PR)
 
