@@ -4,18 +4,23 @@ Caguas Energy Hackathon 2024 @ C3Tec
 Bienvenidos al repositorio oficial del Hackathon de Caguas. Este espacio ha sido creado para almacenar y compartir todo el trabajo realizado durante el evento. El jueves 31 de octubre a las 3pm tendremos una llamada para compartir detalles sobre cómo unirse y subir sus proyectos, prototipos, y cualquier otro material relevante para fomentar la colaboración en futuros desarrollos.
 
 1️⃣ Requisitos previos
+
 Antes de empezar, asegúrate de tener lo siguiente:
 
 Cuenta de GitHub: Si no tienes una, créala aquí.
-Git instalado: Verifica que tienes Git en tu máquina local. Puedes descargarlo desde Git SCM.
-Acceso al repositorio: Solicita acceso al repositorio del hackathon - https://github.com/PREnergyHack/Caguas_2024
+Git instalado: Verifica que tienes Git en tu máquina local. 
+Puedes descargarlo desde Git SCM.
+Acceso al repositorio: 
+Solicita acceso al repositorio del hackathon - https://github.com/PREnergyHack/Caguas_2024
 
 2️⃣ Clonación del repositorio
+
 Para empezar a trabajar, clona el repositorio a tu máquina local.
 
 bash
 Copy code
 git clone <URL-DEL-REPOSITORIO>
+
 Cambia al directorio del proyecto:
 
 bash
@@ -23,6 +28,7 @@ Copy code
 cd nombre-del-repositorio
 
 3️⃣ Estructura del Repositorio
+
 Es importante seguir la estructura definida para mantener el repositorio organizado:
 
 bash
@@ -35,6 +41,7 @@ Copy code
       └── recursos/   # Imágenes, documentos adicionales, etc.
 /scripts      # Scripts de utilidad compartidos
 README.md     # Documentación general del hackathon
+
 4️⃣ Creación de una Rama por Equipo
 Cada equipo debe crear su propia rama para trabajar en su proyecto. Usa el siguiente formato para nombrar las ramas:
 
@@ -66,7 +73,9 @@ bash
 Copy code
 git push origin equipo-<nombre-del-equipo>
 
+
 6️⃣ Crear un Pull Request (PR)
+
 Una vez tu proyecto esté listo para revisión, sigue estos pasos:
 
 Ve al repositorio en GitHub.
