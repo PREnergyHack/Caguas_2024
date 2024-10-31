@@ -26,7 +26,6 @@ Cambia al directorio del proyecto:
 ```bash
 cd nombre-del-repositorio
 ```
-
 ---
 
 ## Estructura del Repositorio
@@ -34,6 +33,7 @@ cd nombre-del-repositorio
 Es importante seguir la estructura definida para mantener el repositorio organizado:
 
 ```plaintext
+
 /docs         # Documentación y referencias
 /proyectos    # Código y entregables de cada equipo
  └── equipo-<nombre-del-equipo>
@@ -43,7 +43,6 @@ Es importante seguir la estructura definida para mantener el repositorio organiz
 /scripts      # Scripts de utilidad compartidos
 README.md     # Documentación general del hackathon
 ```
-
 ---
 
 ## 🚩 Creación de una Rama por Equipo
