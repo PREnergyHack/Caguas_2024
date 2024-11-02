@@ -1,7 +1,7 @@
 
 # Puerto Rico Power Dashboard
 
-![Dashboard Screenshot](./image.jpg)
+![Dashboard Screenshot](https://github.com/ooovenenoso/Caguas_2024/blob/e0a195564df1d2154824ad09ac76c93903b44a86/proyectos/equipo-Solo-Wolf/recursos/Screenshot%202024-11-02%20090510.jpg)
 
 Este proyecto es un dashboard interactivo que proporciona información detallada sobre el estado energético de Puerto Rico. Utiliza datos reales para visualizar métricas clave como generación de energía por tipo de combustible, ventas por clase de cliente, pico del sistema, disponibilidad de plantas, entre otros.
 
